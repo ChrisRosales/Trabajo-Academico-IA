@@ -7,7 +7,7 @@ La reutilización de cohetes es crucial para reducir costos en la industria aero
 
 Este proyecto aborda este reto mediante el desarrollo de un modelo de machine learning que predice el éxito en el aterrizaje de la primera etapa de los cohetes Falcon 9 de SpaceX, utilizando datos históricos de lanzamientos.
 
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing_1.gif)
+![](https://static.emol.cl/emol50/Fotos/2018/02/06/file_MM20180206181838.gif)
 
 ## Descripción del Proyecto
 
