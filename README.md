@@ -29,7 +29,7 @@ El problema se plantea como una **tarea de clasificación binaria**: dado un con
 
 ### Resultados
 
-El proyecto logró desarrollar un modelo de machine learning confiable y preciso en la predicción del éxito de los aterrizajes de los cohetes Falcon 9. La comparación exhaustiva entre modelos permitió seleccionar el más adecuado para este propósito, basado en su rendimiento en el conjunto de prueba.
+El proyecto logró desarrollar un modelo basado en árbol de decisiones confiable y preciso en la predicción del éxito de los aterrizajes de los cohetes Falcon 9. La comparación exhaustiva entre modelos permitió seleccionar el más adecuado para este propósito, basado en su rendimiento en el conjunto de prueba.
 
 ## Requisitos
 
